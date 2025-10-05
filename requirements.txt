@@ -1,0 +1,5 @@
+streamlit
+textract
+pandas
+openai
+python-docx
